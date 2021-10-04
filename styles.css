@@ -67,3 +67,12 @@ button {
      font-size: large;
      font-weight: bold;
  }
+
+ .container {
+    padding: 1rem;
+    margin: 2rem;
+    border: 1px solid;
+    border-radius: 1rem;
+    
+}
+
