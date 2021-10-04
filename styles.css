@@ -76,3 +76,21 @@ button {
     
 }
 
+.ang{
+    padding: 0.3rem;
+    margin: 1.5rem;
+}
+
+.ang1{
+    margin-top: 3rem;
+}
+
+.ang {
+    font-weight: bold;
+    font-size: larger;
+}
+
+.ang input{
+    padding: 0.3rem 3rem;
+    border-radius:0.2rem;
+}
