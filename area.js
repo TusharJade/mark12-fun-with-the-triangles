@@ -7,12 +7,12 @@ function sums (b,h) {
     return baseHeight
 }
 
-
 function calculating (){
     var finalAnswer = sums(Number(triangleInput[0].value), Number(triangleInput[1].value))
 
     output.innerHTML = "The are of triangle is " + finalAnswer.toFixed(2) + " units²"
 }
+
 
 
 
