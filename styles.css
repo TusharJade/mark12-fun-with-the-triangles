@@ -83,6 +83,8 @@ button {
 
 .ang1{
     margin-top: 3rem;
+    font-weight: bold;
+    font-size: larger;
 }
 
 .ang {
@@ -94,3 +96,4 @@ button {
     padding: 0.3rem 3rem;
     border-radius:0.2rem;
 }
+
