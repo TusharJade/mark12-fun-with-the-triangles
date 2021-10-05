@@ -13,7 +13,7 @@ function isTriangle() {
         Number(inputs[2].value) > 0
     ) {
         if (sumOfangle === 180) {
-            output.innerText = "Yahh!, The angles you entered for a triangle🤠🥳"
+            output.innerText = "Yahh!, The angles you entered form a triangle🤠🥳"
         } else {
             output.innerText = "Ohh!, The angles you enterd does not for a triangle🥴🤕"
         }
